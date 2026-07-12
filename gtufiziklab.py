@@ -30,9 +30,8 @@ def calculate():
                      f"Σx*y: {result4}\n" \
                      f"Σx**2: {result3}\n" \
                      f"Σx*y/Σx**2: {result5}\n" \
-                     f"a hesabı(linear fitting formulae): {result6} \n \n"\
-                     "Orhan Haluk Taşcıoğlu"   
-                     
+                     f"a hesabı(linear fitting formulae): {result6}"
+
     messagebox.showinfo("Sonuçlar", result_message)
 
 # tkinter cart curt
